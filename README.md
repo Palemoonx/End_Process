@@ -12,7 +12,7 @@ No install. No browser. No heavy runtime. Just AutoHotkey v1.
 
 ## Screenshot
 
-[End Process List GUI](https://github.com/Palemoonx/End_Process/blob/main/End_Process.png)
+[End Process List GUI](End_Process.png)
 
 ---
 
